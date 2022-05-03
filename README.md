@@ -10,3 +10,5 @@ detector we're working on today could be utilised to help protect you and others
 
 As a result, the model we will create for this project can be employed in crowded
 areas such as malls, bus stops, and other public places.
+
+Google Colab: Notebook[https://colab.research.google.com/drive/1bXmB6SvVpHOVxFHcPQ0uJx1XBkyNIHZc#scrollTo=q9Af8N-p9hh2]
